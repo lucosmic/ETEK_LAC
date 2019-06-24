@@ -1,0 +1,3 @@
+[submodule "StarmanSystems-Actuonix_Linux_tested"]
+	path = StarmanSystems-Actuonix_Linux_tested
+	url = https://github.com/lucosmic/StarmanSystems-Actuonix_Linux_tested.git
